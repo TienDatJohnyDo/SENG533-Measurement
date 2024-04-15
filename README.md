@@ -1,5 +1,9 @@
 # SENG533-Measurement
 # Characterizing the Performance of MongoDB 
+
+Our group will share the screenshots of all of our measurement data for this project within this repo. 
+
+
 Group 18
 
 
