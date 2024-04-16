@@ -5,6 +5,7 @@ Our group will share the screenshots of all of our measurement data for this pro
 
 The Dataset our group is using : https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset?select=yelp_academic_dataset_tip.json
 
+Note =The file for 500000 entries and the full dataset was not able to upload on GitHub due to its file size. The link will allow for download and partitioning of the data. 
 
 Group 18
 
